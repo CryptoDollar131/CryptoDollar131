@@ -108,7 +108,7 @@ def display_books(books):
 
 def main():
     library = Library("library.db")
-    
+
     while True:
         print("\nМеню:")
         print("1. Просмотр списка книг")
